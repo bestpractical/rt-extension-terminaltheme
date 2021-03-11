@@ -12,6 +12,8 @@ RT-Extension-TerminalTheme - Classic "green screen" terminal theme for RT
 
 Provides a theme with light and dark modes that resemble a classic CRT "green
 screen" terminal and serve as a good example of how to theme Request Tracker.
+You can L<read more|https://bestpractical.com/blog/2021/1/terminal-theme-for-rt5> about
+this theme on the L<Best Practical blog|https://bestpractical.com/blog>.
 
 =head1 RT VERSION
 
@@ -60,7 +62,7 @@ href="http://rt.cpan.org/Public/Dist/Display.html?Name=RT-Extension-TerminalThem
 
 =head1 LICENSE AND COPYRIGHT
 
-This software is Copyright (c) 2020 by Best Practical Solutions, LLC
+This software is Copyright (c) 2021 by Best Practical Solutions, LLC
 
 This is free software, licensed under:
 

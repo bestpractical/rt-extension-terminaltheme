@@ -5,7 +5,9 @@ NAME
 DESCRIPTION
     Provides a theme with light and dark modes that resemble a classic CRT
     "green screen" terminal and serve as a good example of how to theme
-    Request Tracker.
+    Request Tracker. You can read more
+    <https://bestpractical.com/blog/2021/1/terminal-theme-for-rt5> about
+    this theme on the Best Practical blog <https://bestpractical.com/blog>.
 
 RT VERSION
     Works with RT 5.
@@ -34,7 +36,7 @@ AUTHOR
     or via the web at
         http://rt.cpan.org/Public/Dist/Display.html?Name=RT-Extension-TerminalTheme
 LICENSE AND COPYRIGHT
-    This software is Copyright (c) 2020 by Best Practical Solutions, LLC
+    This software is Copyright (c) 2021 by Best Practical Solutions, LLC
 
     This is free software, licensed under:
 
