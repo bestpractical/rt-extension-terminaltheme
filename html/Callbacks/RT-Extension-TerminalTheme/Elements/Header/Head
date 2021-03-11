@@ -1,0 +1,8 @@
+<%INIT>
+return unless RT->Config->Get( 'WebDefaultStylesheet', $session{CurrentUser} ) =~ /^terminal-(?:light|dark)$/;
+$ARGSRef->{LogoURL} = RT->Config->Get('WebImagesURL') . "terminal-request-tracker-logo.svg";
+</%INIT>
+
+<%ARGS>
+$ARGSRef
+</%ARGS>
